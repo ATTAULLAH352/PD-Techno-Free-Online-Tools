@@ -1,4 +1,4 @@
-PD Techno - Free Online Tools (pdtechno.com)
+PD Techno - Free Online Tools https://pdtechno.com/
 PD Techno (pdtechno.com) is your ultimate destination for a diverse range of free, open-source tools designed to enhance your digital tasks. Our collection includes a wide array of utilities, from automation scripts to data analysis tools, all conveniently accessible on our website.
 
 Whether you're a developer, designer, or just someone looking for practical online tools, PD Techno has something to offer. Our tools are built using popular technologies like Python, ensuring they are easy to use, reliable, and powerful. We provide resources for web development, SEO optimization, data processing, and much more.
