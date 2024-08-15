@@ -3,9 +3,13 @@ PD Techno (pdtechno.com) is your ultimate destination for a diverse range of fre
 
 Whether you're a developer, designer, or just someone looking for practical online tools, PD Techno has something to offer. Our tools are built using popular technologies like Python, ensuring they are easy to use, reliable, and powerful. We provide resources for web development, SEO optimization, data processing, and much more.
 
+
 Key Features:
+
 CLI tools for command-line operations
+
 API integrations for developers
+
 Comprehensive toolkit for various tasks
 Utility tools for daily use
 Automation scripts to increase productivity
